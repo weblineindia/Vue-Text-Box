@@ -1,0 +1,19 @@
+{
+  "name": "vue-weblineindia-text-box",
+  "version": "1.0.0",
+  "description": "A Vue.js Text Box component specifies an input field where the user can enter data.",
+  "main": "./lib/Input.vue",
+  "author": "weblineindia",
+  "license": "MLT",
+  "repository": "https://github.com/weblineindia/Vue-Text-Box",
+  "homepage": "https://www.weblineindia.com/software-development-resources.html",
+  "keywords": [
+    "vue-weblineindia-textbox",
+    "vue-weblineindia-text-box",
+    "textbox",
+    "input",
+    "vue components",
+    "vuejs",
+    "vuejs component"
+  ]
+}
